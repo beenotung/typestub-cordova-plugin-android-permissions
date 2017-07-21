@@ -1,0 +1,20 @@
+{
+  "name": "typestub-cordova-plugin-android-permissions",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beenotung/typestub-cordova-plugin-android-permissions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beenotung/typestub-cordova-plugin-android-permissions/issues"
+  },
+  "homepage": "https://github.com/beenotung/typestub-cordova-plugin-android-permissions#readme"
+}
